@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function TabOneScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>SURNAME</Text>
+      <Text style={styles.title}>Bolohan</Text>
       <Text style={styles.subtitle}>Лабораторна робота 1: середовище налаштовано успішно.</Text>
     </View>
   );
